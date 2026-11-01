@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,ROC-AUC
+Logistic Regression,0.8043,0.8842,0.7706,0.8582
+Random Forest,0.8098,0.8776,0.789,0.8788
+KNN,0.7935,0.8447,0.7982,0.8489
+XGBoost,0.8315,0.8824,0.8257,0.8697
+Deep Neural Network,0.8043,0.8763,0.7798,0.8657

@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,ROC-AUC
+Logistic Regression,0.8561,0.5333,0.065,0.71
+Random Forest,0.8526,0.4286,0.0488,0.667
+KNN,0.8278,0.1714,0.0488,0.5932
